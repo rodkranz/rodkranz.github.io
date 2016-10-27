@@ -1,2 +1,1 @@
 # rodkranz.github.io
-Hello world
